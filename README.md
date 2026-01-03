@@ -30,8 +30,8 @@ LSI Criticality Analysis: Identifies missing pH data—a "gold standard" require
 
 Enterprise Scalability: Modular architecture designed for deployment across a global fleet of industrial assets.
  WaterSense-AI
-├──  water_potability.csv  # Raw industrial sensor data
-├── day1_test.py          # Environment check & data loading
-├── day1a_test.py         # Scaling Risk logic & analysis
-├── .gitignore            # Excludes temporary/junk files
-└── README.md             # Project documentation
+water_potability.csv  # Raw industrial sensor data
+day1_test.py          # Environment check & data loading
+day1a_test.py         # Scaling Risk logic & analysis
+.gitignore            # Excludes temporary/junk files
+README.md             # Project documentation
