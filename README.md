@@ -1,6 +1,6 @@
 Project Title: WaterSense AI: Predictive Potability Analysis
 
-WaterSense AI: Predictive Potability Analysis 💧
+WaterSense AI: Predictive Potability Analysis 
 Problem Statement:
 Conventional water treatment relies on periodic manual sampling and laboratory analysis. This inherent latency allows sub-optimal water to enter industrial systems, causing corrosion and scaling, even when advanced hardware like 3D TRASAR technology is present.
 
